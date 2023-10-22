@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VSNSRUJANA123
+- 👋 Hi, I’m VSNSRUJANA
 - 👀 I’m interested in Ai/ml
 - 🌱 I’m currently learning DSA,system design 
 - 💞️ I’m looking to collaborate on full stack open source projects
