@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ai/ml
 - 🌱 I’m currently learning DSA,system design 
 - 💞️ I’m looking to collaborate on full stack open source projects
-- 📫 How to reach me "https://www.linkedin.com/in/dvsn-srujana-97ba05257/"
+- 📫 How to reach me "(https://www.linkedin.com/in/dogiparthi-venkata-siva-naga-srujana-97ba05257/)"
 
 
 <!---
