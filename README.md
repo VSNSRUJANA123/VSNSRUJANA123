@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VSNSRUJANA
 - 👀 I’m interested in Ai/ml
-- 🌱 I’m currently learning DSA,system design 
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on full stack open source projects
 - 📫 How to reach me "(https://www.linkedin.com/in/srujanadvsn/)"
 
